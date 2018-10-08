@@ -2258,6 +2258,45 @@ body {
 .cid-r5MPnGq8rI .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-r5RPzkzupj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r5RPzkzupj .title {
+  margin-bottom: 2rem;
+}
+.cid-r5RPzkzupj .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r5RPzkzupj a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-r5RPzkzupj a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-r5RPzkzupj .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-r5RPzkzupj .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-r5RPwX3wIv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-r5RPwX3wIv .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-r5RPwX3wIv .social-list a:focus {
+  text-decoration: none;
+}
 @primaryColor: #149dcc;
 @secondaryColor: #ff3366;
 @successColor: #F7ED4A;
