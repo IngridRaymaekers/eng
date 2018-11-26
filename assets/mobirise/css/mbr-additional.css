@@ -2196,7 +2196,7 @@ body {
 .cid-r8P6QhXm4a {
   padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #f7ed4a;
 }
 .cid-r8P6QhXm4a .mbr-text,
 .cid-r8P6QhXm4a blockquote {
@@ -2472,6 +2472,103 @@ body {
 }
 @media (max-width: 768px) {
   .cid-r8hE5DQtek .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rauJvQBRkn {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-rauJvQBRkn .images-container.container-fluid {
+  padding: 0;
+}
+.cid-rauJvQBRkn .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rauJvQBRkn .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rauJvQBRkn .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rauJvQBRkn .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rauJvQBRkn .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rauJvQBRkn .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rauJvQBRkn .img-item {
+    width: 100% !important;
+  }
+  .cid-rauJvQBRkn .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
+.cid-rauIzImE8U {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rauIzImE8U .image-block {
+  margin: auto;
+}
+.cid-rauIzImE8U .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rauIzImE8U figcaption {
+  position: relative;
+}
+.cid-rauIzImE8U figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rauIzImE8U .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rauKpFNXd1 {
+  background: #ffffff;
+}
+.cid-rauKpFNXd1 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rauKpFNXd1 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rauKpFNXd1 figcaption {
+  position: relative;
+}
+.cid-rauKpFNXd1 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rauKpFNXd1 .image-block {
     width: 100% !important;
   }
 }
