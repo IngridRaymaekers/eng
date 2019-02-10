@@ -26,13 +26,12 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      },
-      "additionalSetColors": []
+      }
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 11,
+    "uniqCompNum": 3,
     "versionPublish": "4.8.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/stempel-1.jpg",
@@ -1064,8 +1063,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-281.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-281-800x583.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-3-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1077,8 +1076,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-280-800x604.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-2-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1090,8 +1089,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-284.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-284-800x602.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-1-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1103,8 +1102,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-287.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-287-800x569.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-8-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1116,8 +1115,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-282.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-282-682x918.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-7-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1129,8 +1128,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-285.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-285-668x898.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-6-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1142,8 +1141,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-289.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-289-707x962.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-4-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1155,8 +1154,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-621.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-621-800x1093.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-a4-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-a4-5-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1574,11 +1573,11 @@
           "_name": "image4",
           "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Breedte\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Formaten\" name=\"proportions\" min=\"30\" max=\"300\" value=\"107\" step=\"1\">\n        <input type=\"checkbox\" title=\"Toon onderschrift\" name=\"showCaption\">\n        <input type=\"color\" title=\"Achtergrond onderschrift\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc0367-1.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            leuke\n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc0366.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Mobiel-vriendelijke\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_cid": "rauJvQBRkn",
+          "_anchor": "image4-9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image4-9"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1616,11 +1615,11 @@
           "_name": "image2",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Toon tekst\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Breedte\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Verloop\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Kleur 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/dsc0369.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Maak knappe websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_cid": "rauIzImE8U",
+          "_anchor": "image2-6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image2-6"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1658,11 +1657,11 @@
           "_name": "image2",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Toon tekst\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Breedte\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Verloop\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Kleur 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/dsc0368.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Maak knappe websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_cid": "rauKpFNXd1",
+          "_anchor": "image2-a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image2-a"
+          "_params": {}
         }
       ]
     },
@@ -1670,7 +1669,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Paintings",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2261,7 +2260,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Sketchbooks",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3089,7 +3088,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Page 2 Template",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4397,7 +4396,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Contact",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
